@@ -1,6 +1,6 @@
-#Code C
+##Code C
 
-#Two-pass Hash Table
+##Two-pass Hash Table
 
 
 ```
