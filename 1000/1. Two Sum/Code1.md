@@ -1,5 +1,7 @@
 #Code C
+
 #Two-pass Hash Table
+
 
 ```
 //Macro là gì ? 
